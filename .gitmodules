@@ -1,0 +1,6 @@
+[submodule "models/ViG/Efficient-AI-Backbones"]
+	path = models/ViG/Efficient-AI-Backbones
+	url = https://github.com/huawei-noah/Efficient-AI-Backbones.git
+[submodule "models/LeVit/LeViT"]
+	path = models/LeVit/LeViT
+	url = https://github.com/facebookresearch/LeViT.git
