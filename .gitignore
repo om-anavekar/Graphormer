@@ -55,11 +55,10 @@ cover/
 *.mo
 *.pot
 
-# Django stuff:
+# Logs and temporary files
 *.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+tmp/
+temp/
 
 # Flask stuff:
 instance/
@@ -81,6 +80,10 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# IDE and editor settings
+.idea/
+.vscode/
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
@@ -172,3 +175,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files and evaluation outputs (adjust as necessary)
+data/
+results/
