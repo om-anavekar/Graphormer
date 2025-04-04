@@ -4,3 +4,6 @@
 [submodule "models/LeVit/LeViT"]
 	path = models/LeVit/LeViT
 	url = https://github.com/facebookresearch/LeViT.git
+[submodule "models/ViG_Modified/Efficient-AI-Backbones"]
+	path = models/ViG_Modified/Efficient-AI-Backbones
+	url = https://github.com/giterator/Efficient-AI-Backbones.git
